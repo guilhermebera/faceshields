@@ -11,8 +11,38 @@ para mais informações sobre a propagação do vírus.
 
 # STLS
 
-Os modelos que forem testados e aprovados, estão sendo colocados na pasta STLS.
-Lembro a você que o modelo do Prusa é Creative Commons Non Commercial, ou seja
-você não pode imprimir este modelo e vender, o mínimo que ele liberou é fazer
-pelo preço de custo de impressão. Pois neste momento não precisamos de ser
-gananciosos e sim ser autruísta.
+## Modelo Drake
+
+## Modelo Lady Liberty
+
+## Modelo do Prusa
+
+## Modelo do Renato Castro CRM 50.575
+
+"O modelo foi aprovado e validado pelos médicos do meu Hospital e o Jurídico 
+disse não haver problemas, já que estamos em situação de calamidade nacional. 
+O PETG não apresenta risco, então não tem problema usar sobre a pele."
+
+"Se cuidar direito, aguenta bem. Aqui estão usando os mesmos 6 que eu do há 2d. 
+Nenhum quebrou. O acetato ou PET da frente deve ser trocado sempre na suspeita. 
+A cada paciente, pode ser desinfectado com álcool ou levar com água e sabão. 
+Se der pra trocar melhor, mas em crise, melhor não ficar gastando a mais. 
+O suporte, se feito em PRTG, TRITAN ou Nylon aguenta bem o calor para desinfeccao. 
+Fiz com vários materiais diferentes e o que achamos mais prático, fácil e de 
+menor custo foi PETG E ABS.
+Os gases do ABS são tóxicos, mas depois de impresso, não tem problemas deixar no corpo. Até
+Pq usamos por cima do gorro e não vai na cabeça."
+
+### Especificações
+
+PETG a 245
+Camada 0,3
+Bico 0,4
+Vel: 90mm/min
+Mesa a 90C
+Tempo: 1h:30.
+Retract de 6
+Sem suporte
+4 linhas de perímetro
+5 camadas de TOP Layer
+Infil de 20
