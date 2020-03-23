@@ -13,16 +13,20 @@ para mais informações sobre a propagação do vírus.
 
 ## Modelo do Prusa
 Arquivo .STL (uma parte)
-https://github.com/lays147/FaceShielsSTLBR/blob/master/MODELS/PRUSA/covid19_headband_rc2.stl
+https://github.com/guilhermebera/faceshields/blob/master/MODELS/PRUSA/covid19_headband_rc2.stl
 “É o modelo aprovado no RJ”
 
 
 ## Modelo do Renato Castro CRM 50.575
 
-Arquivos .STL (duas partes)
-https://github.com/lays147/FaceShielsSTLBR/blob/master/MODELS/Modelo%20Renato%20Castro/VISEIRAV1.stl 
-https://github.com/lays147/FaceShielsSTLBR/blob/master/MODELS/Modelo%20Renato%20Castro/VISEIRAV1PT2.stl
-Vantagens em relação ao Prusa
+#### Peças para acetato formato A4 na vertical
+https://github.com/guilhermebera/faceshields/blob/master/MODELS/Modelo%20Renato%20Castro/VISEIRAV1.stl
+https://github.com/guilhermebera/faceshields/blob/master/MODELS/Modelo%20Renato%20Castro/VISEIRAV1PT2.stl
+
+#### Peças para acetato formato A4 na horizontal
+https://github.com/guilhermebera/faceshields/blob/master/MODELS/Modelo%20Renato%20Castro/viseira300mm.stl
+
+#### Vantagens em relação ao Prusa
 não precisa furar o acetato (só encaixar), fixado por fricção, 
 mais rápido para impressão (1h28 x 1h50), 
 adaptado a cabeça do Brasileiro (que fica maior por causa do capote). 
@@ -48,7 +52,7 @@ Infil de 20
 ## Modelo Ramon Melo
 
 Arquivo .STL (uma parte)
-https://github.com/lays147/FaceShielsSTLBR/blob/master/MODELS/Modelo%20Ramon%20Melo/FaceShield_v2.stl
+https://github.com/guilhermebera/faceshields/blob/master/MODELS/Modelo%20Ramon%20Melo/FaceShield_v2.stl
  
 É a adaptação do modelo Renato Castro para as impressoras Delta que possuem menor área de de impressão, apenas houve uma redução no comprimento das hastes.
 
@@ -56,4 +60,4 @@ https://github.com/lays147/FaceShielsSTLBR/blob/master/MODELS/Modelo%20Ramon%20M
 
 Arquivos .PDF (uma parte)
 
-https://github.com/lays147/FaceShielsSTLBR/blob/master/MODELS/Modelo%20Corte%20a%20Laser/medical_shield_petg_05mm_SingleSheet.pdf
+https://github.com/guilhermebera/faceshields/blob/master/MODELS/Modelo%20Corte%20a%20Laser/medical_shield_petg_05mm_SingleSheet.pdf
