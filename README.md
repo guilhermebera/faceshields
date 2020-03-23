@@ -9,7 +9,7 @@ Lembrando sempre que você deve consultar o Site do [Ministério da Saúde](http
 para mais informações sobre a propagação do vírus.
 
 
-# Modelos
+# Modelos Impressão 3D
 
 ## Modelo do Prusa
 Arquivo .STL (uma parte)
