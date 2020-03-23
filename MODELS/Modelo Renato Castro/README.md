@@ -1,13 +1,13 @@
 ## Modelo do Renato Castro CRM 50.575
 
-####Peças para acetato formato A4 na vertical
+#### Peças para acetato formato A4 na vertical
 VISEIRAV1.stl 
 VISEIRAV1PT2.stl
 
-####Peças para acetato formato A4 na horizontal
+#### Peças para acetato formato A4 na horizontal
 viseira300mm.stl
 
-###Vantagens em relação ao Prusa
+### Vantagens em relação ao Prusa
 não precisa furar o acetato (só encaixar), fixado por fricção, 
 mais rápido para impressão (1h28 x 1h50), 
 adaptado a cabeça do Brasileiro (que fica maior por causa do capote). 
